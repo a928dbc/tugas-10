@@ -1,8 +1,0 @@
-cara masuk:
-
-- nyalakan xampp
-- buka 127.0.0.1/phpmyadmin
-- import fazztrack.sql
-- masukkan folder tugas 10 ke folder htdocs milik xampp
-- buka 127.0.0.1/tugas10
-- langsung dapat digunakan
